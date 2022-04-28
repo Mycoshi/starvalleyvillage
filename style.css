@@ -40,9 +40,6 @@
 .body {
     background-color:black;
 }
-.main{
-    background-color:yellow;
-}
 .bg_img {
     width: 100%;
     overflow: hidden;
@@ -151,6 +148,7 @@ padding-top:3rem;
 }
 .bm-container{
     padding:3rem;
+    background-color: var(--body-color);
 }
 .card {
     display:flex;
